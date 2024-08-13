@@ -1,0 +1,36 @@
+import numpy as np
+import matplotlib.pyplot as plt
+from sklearn.linear_model import LinearRegression
+from sklearn.metrics import mean_squared_error
+
+# Dados de exemplo: horas de estudo (X) e notas (y)
+X = np.array([[1], [2], [3], [4], [5],[6],[7]])  # horas de estudo
+y = np.array([50, 55, 65, 70, 80, 85, 87])        # notas
+model = LinearRegression()
+
+model.fit(X, y)
+
+X_new = np.array([[8], [9]])
+predictions = model.predict(X_new)
+
+#print("Previsão de notas para 8 e 10 horas de estudo: ", predictions)	
+#for hours, score in zip(X_new.flatten(), predictions):
+ #   print(f"Previsão de nota para {hours} horas de estudo: {score:.2f}")
+
+
+mse = mean_squared_error(y, model.predict(X))
+print("Erro Quadrático Médio:", mse)
+erro = np.sqrt(mse)
+print("Raiz do Erro Quadrático Médio:", erro)
+
+
+
+plt.scatter(X, y, color='black', label = 'Dados Originais')
+plt.plot(X, model.predict(X), color='blue', label = 'Regressão Linear')
+plt.scatter(X_new, predictions, color='red', marker='x',label = 'Previsão')
+
+plt.title('Regressão Linear: Horas de Estudo vs. Notas')
+plt.xlabel('Horas de Estudo')
+plt.ylabel('Notas')
+plt.grid()
+plt.show()
