@@ -1,0 +1,151 @@
+\headcommand {\slideentry {0}{0}{1}{1/1}{}{0}}
+\headcommand {\beamer@framepages {1}{1}}
+\headcommand {\slideentry {0}{0}{2}{2/2}{}{0}}
+\headcommand {\beamer@framepages {2}{2}}
+\headcommand {\beamer@sectionpages {1}{2}}
+\headcommand {\beamer@subsectionpages {1}{2}}
+\headcommand {\sectionentry {1}{KNN}{3}{KNN}{0}}
+\headcommand {\slideentry {1}{0}{1}{3/3}{}{0}}
+\headcommand {\beamer@framepages {3}{3}}
+\headcommand {\beamer@subsectionpages {3}{3}}
+\headcommand {\beamer@subsectionentry {0}{1}{1}{4}{Contexto Histórico do KNN}}
+\headcommand {\slideentry {1}{1}{1}{4/5}{Contexto Histórico do KNN}{0}}
+\headcommand {\beamer@framepages {4}{5}}
+\headcommand {\slideentry {1}{1}{2}{6/8}{Contexto Histórico do KNN}{0}}
+\headcommand {\beamer@framepages {6}{8}}
+\headcommand {\slideentry {1}{1}{3}{9/14}{Contexto Histórico do KNN}{0}}
+\headcommand {\beamer@framepages {9}{14}}
+\headcommand {\slideentry {1}{1}{4}{15/19}{Contexto Histórico do KNN}{0}}
+\headcommand {\beamer@framepages {15}{19}}
+\headcommand {\slideentry {1}{1}{5}{20/20}{Contexto Histórico do KNN}{0}}
+\headcommand {\beamer@framepages {20}{20}}
+\headcommand {\beamer@subsectionpages {4}{20}}
+\headcommand {\beamer@subsectionentry {0}{1}{2}{21}{Introdução ao Algoritmo KNN}}
+\headcommand {\slideentry {1}{2}{1}{21/21}{Introdução ao Algoritmo KNN}{0}}
+\headcommand {\beamer@framepages {21}{21}}
+\headcommand {\beamer@subsectionpages {21}{21}}
+\headcommand {\beamer@subsectionentry {0}{1}{3}{22}{Funcionamento}}
+\headcommand {\slideentry {1}{3}{1}{22/22}{Funcionamento}{0}}
+\headcommand {\beamer@framepages {22}{22}}
+\headcommand {\beamer@subsectionpages {22}{22}}
+\headcommand {\beamer@subsectionentry {0}{1}{4}{23}{A Geometria das Métricas de Distância}}
+\headcommand {\slideentry {1}{4}{1}{23/23}{A Geometria das Métricas de Distância}{0}}
+\headcommand {\beamer@framepages {23}{23}}
+\headcommand {\slideentry {1}{4}{2}{24/26}{A Geometria das Métricas de Distância}{0}}
+\headcommand {\beamer@framepages {24}{26}}
+\headcommand {\slideentry {1}{4}{3}{27/27}{A Geometria das Métricas de Distância}{0}}
+\headcommand {\beamer@framepages {27}{27}}
+\headcommand {\slideentry {1}{4}{4}{28/28}{A Geometria das Métricas de Distância}{0}}
+\headcommand {\beamer@framepages {28}{28}}
+\headcommand {\slideentry {1}{4}{5}{29/29}{A Geometria das Métricas de Distância}{0}}
+\headcommand {\beamer@framepages {29}{29}}
+\headcommand {\slideentry {1}{4}{6}{30/30}{A Geometria das Métricas de Distância}{0}}
+\headcommand {\beamer@framepages {30}{30}}
+\headcommand {\slideentry {1}{4}{7}{31/33}{A Geometria das Métricas de Distância}{0}}
+\headcommand {\beamer@framepages {31}{33}}
+\headcommand {\slideentry {1}{4}{8}{34/34}{A Geometria das Métricas de Distância}{0}}
+\headcommand {\beamer@framepages {34}{34}}
+\headcommand {\beamer@subsectionpages {23}{34}}
+\headcommand {\beamer@subsectionentry {0}{1}{5}{35}{Problemas e Variações}}
+\headcommand {\slideentry {1}{5}{1}{35/35}{Problemas e Variações}{0}}
+\headcommand {\beamer@framepages {35}{35}}
+\headcommand {\slideentry {1}{5}{2}{36/36}{Problemas e Variações}{0}}
+\headcommand {\beamer@framepages {36}{36}}
+\headcommand {\slideentry {1}{5}{3}{37/37}{Problemas e Variações}{0}}
+\headcommand {\beamer@framepages {37}{37}}
+\headcommand {\slideentry {1}{5}{4}{38/38}{Problemas e Variações}{0}}
+\headcommand {\beamer@framepages {38}{38}}
+\headcommand {\beamer@subsectionpages {35}{38}}
+\headcommand {\beamer@subsectionentry {0}{1}{6}{39}{Resumo}}
+\headcommand {\slideentry {1}{6}{1}{39/41}{Resumo}{0}}
+\headcommand {\beamer@framepages {39}{41}}
+\headcommand {\beamer@sectionpages {3}{41}}
+\headcommand {\beamer@subsectionpages {39}{41}}
+\headcommand {\sectionentry {2}{K-Means: O Algoritmo de Clusterização}{42}{K-Means: O Algoritmo de Clusterização}{0}}
+\headcommand {\slideentry {2}{0}{1}{42/42}{}{0}}
+\headcommand {\beamer@framepages {42}{42}}
+\headcommand {\beamer@subsectionpages {42}{42}}
+\headcommand {\beamer@subsectionentry {0}{2}{1}{43}{Visão Geral}}
+\headcommand {\slideentry {2}{1}{1}{43/43}{Visão Geral}{0}}
+\headcommand {\beamer@framepages {43}{43}}
+\headcommand {\slideentry {2}{1}{2}{44/44}{Visão Geral}{0}}
+\headcommand {\beamer@framepages {44}{44}}
+\headcommand {\beamer@subsectionpages {43}{44}}
+\headcommand {\beamer@subsectionentry {0}{2}{2}{45}{Como Ocorre}}
+\headcommand {\slideentry {2}{2}{1}{45/45}{Como Ocorre}{0}}
+\headcommand {\beamer@framepages {45}{45}}
+\headcommand {\beamer@subsectionpages {45}{45}}
+\headcommand {\beamer@subsectionentry {0}{2}{3}{46}{Problema Inerentes}}
+\headcommand {\slideentry {2}{3}{1}{46/46}{Problema Inerentes}{0}}
+\headcommand {\beamer@framepages {46}{46}}
+\headcommand {\slideentry {2}{3}{2}{47/47}{Problema Inerentes}{0}}
+\headcommand {\beamer@framepages {47}{47}}
+\headcommand {\slideentry {2}{3}{3}{48/48}{Problema Inerentes}{0}}
+\headcommand {\beamer@framepages {48}{48}}
+\headcommand {\slideentry {2}{3}{4}{49/49}{Problema Inerentes}{0}}
+\headcommand {\beamer@framepages {49}{49}}
+\headcommand {\slideentry {2}{3}{5}{50/50}{Problema Inerentes}{0}}
+\headcommand {\beamer@framepages {50}{50}}
+\headcommand {\beamer@subsectionpages {46}{50}}
+\headcommand {\beamer@subsectionentry {0}{2}{4}{51}{Métodos e Comparações}}
+\headcommand {\slideentry {2}{4}{1}{51/52}{Métodos e Comparações}{0}}
+\headcommand {\beamer@framepages {51}{52}}
+\headcommand {\slideentry {2}{4}{2}{53/53}{Métodos e Comparações}{0}}
+\headcommand {\beamer@framepages {53}{53}}
+\headcommand {\slideentry {2}{4}{3}{54/54}{Métodos e Comparações}{0}}
+\headcommand {\beamer@framepages {54}{54}}
+\headcommand {\slideentry {2}{4}{4}{55/55}{Métodos e Comparações}{0}}
+\headcommand {\beamer@framepages {55}{55}}
+\headcommand {\slideentry {2}{4}{5}{56/56}{Métodos e Comparações}{0}}
+\headcommand {\beamer@framepages {56}{56}}
+\headcommand {\slideentry {2}{4}{6}{57/57}{Métodos e Comparações}{0}}
+\headcommand {\beamer@framepages {57}{57}}
+\headcommand {\slideentry {2}{4}{7}{58/58}{Métodos e Comparações}{0}}
+\headcommand {\beamer@framepages {58}{58}}
+\headcommand {\slideentry {2}{4}{8}{59/59}{Métodos e Comparações}{0}}
+\headcommand {\beamer@framepages {59}{59}}
+\headcommand {\beamer@subsectionpages {51}{59}}
+\headcommand {\beamer@subsectionentry {0}{2}{5}{60}{Resumo}}
+\headcommand {\slideentry {2}{5}{1}{60/60}{Resumo}{0}}
+\headcommand {\beamer@framepages {60}{60}}
+\headcommand {\beamer@sectionpages {42}{60}}
+\headcommand {\beamer@subsectionpages {60}{60}}
+\headcommand {\sectionentry {3}{Estudo de Caso}{61}{Estudo de Caso}{0}}
+\headcommand {\slideentry {3}{0}{1}{61/61}{}{0}}
+\headcommand {\beamer@framepages {61}{61}}
+\headcommand {\slideentry {3}{0}{2}{62/62}{}{0}}
+\headcommand {\beamer@framepages {62}{62}}
+\headcommand {\slideentry {3}{0}{3}{63/63}{}{0}}
+\headcommand {\beamer@framepages {63}{63}}
+\headcommand {\slideentry {3}{0}{4}{64/64}{}{0}}
+\headcommand {\beamer@framepages {64}{64}}
+\headcommand {\slideentry {3}{0}{5}{65/65}{}{0}}
+\headcommand {\beamer@framepages {65}{65}}
+\headcommand {\slideentry {3}{0}{6}{66/66}{}{0}}
+\headcommand {\beamer@framepages {66}{66}}
+\headcommand {\slideentry {3}{0}{7}{67/67}{}{0}}
+\headcommand {\beamer@framepages {67}{67}}
+\headcommand {\slideentry {3}{0}{8}{68/68}{}{0}}
+\headcommand {\beamer@framepages {68}{68}}
+\headcommand {\slideentry {3}{0}{9}{69/69}{}{0}}
+\headcommand {\beamer@framepages {69}{69}}
+\headcommand {\slideentry {3}{0}{10}{70/70}{}{0}}
+\headcommand {\beamer@framepages {70}{70}}
+\headcommand {\slideentry {3}{0}{11}{71/71}{}{0}}
+\headcommand {\beamer@framepages {71}{71}}
+\headcommand {\beamer@sectionpages {61}{71}}
+\headcommand {\beamer@subsectionpages {61}{71}}
+\headcommand {\sectionentry {4}{Conclusão Final}{72}{Conclusão Final}{0}}
+\headcommand {\slideentry {4}{0}{1}{72/72}{}{0}}
+\headcommand {\beamer@framepages {72}{72}}
+\headcommand {\slideentry {4}{0}{2}{73/73}{}{0}}
+\headcommand {\beamer@framepages {73}{73}}
+\headcommand {\slideentry {4}{0}{3}{74/74}{}{0}}
+\headcommand {\beamer@framepages {74}{74}}
+\headcommand {\slideentry {4}{0}{4}{75/75}{}{0}}
+\headcommand {\beamer@framepages {75}{75}}
+\headcommand {\beamer@partpages {1}{75}}
+\headcommand {\beamer@subsectionpages {72}{75}}
+\headcommand {\beamer@sectionpages {72}{75}}
+\headcommand {\beamer@documentpages {75}}
+\headcommand {\gdef \inserttotalframenumber {56}}
